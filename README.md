@@ -1,5 +1,3 @@
-# FRO5T-CLAN-OFFICAL
-<!doctype html>
 <html>
   <title>FRO5T CLAN</title>
   <Head>
